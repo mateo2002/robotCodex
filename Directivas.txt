@@ -1,0 +1,5 @@
+Seguir las siguientes recomendaciones:
+1-Estructura de carpetas del proyecto:
+PageObject:Se definen xpath de los elementos de la pagina
+Resources:Se definen los keywords de robot framework
+Test:Se definen los casos de prueba de robot framework
