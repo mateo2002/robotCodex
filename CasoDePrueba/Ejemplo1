@@ -1,2 +1,4 @@
-Entrar a la URL y hacer login con las credenciales.
-Luego de hacer click en eun popup que sale luego del login debe hacer click en el botón Festión de encomiendas, luego ir al Menú Consultas y Búsqueda de guías, y finalmente hacer click en la primera línea de la grilla de resultados.
+1-Entrar a la URL y hacer login con las credenciales.
+2-Si se muestra un popup despues del login debe cerrarlo.
+3-Hacer click en el botón Gestión de encomiendas
+4-Ir al Menú Consultas y seleccionar Búsqueda de guías, finalmente hacer click en la primera línea de la grilla de resultados.
