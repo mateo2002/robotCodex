@@ -1,0 +1,9 @@
+1-Entrar a la URL y hacer login con las credenciales.
+2-Si se muestra un popup despues del login debe cerrarlo.
+3-Hacer click en el botón Gestión de encomiendas
+4-Ir al Menú superior hacer click en Operaciones
+5-Seleccionar Guías Madre hacer una espera a que cargue la pagina
+6-En el combo Almacén destino seleccionar el primer resultado de la lista
+7-En el combo box Tipo de contenedor seleccionar el dato PALLET
+8-Hacer click en el botón Guardar
+9-Mostrar el resultado de Referencia de la Guía Madre
